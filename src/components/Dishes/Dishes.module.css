@@ -1,0 +1,29 @@
+.caption_wrap {
+    display: flex;
+    width: 40%;
+    align-items: center;
+}
+
+.caption {
+    font-size: 24px;
+    font-family: Tahoma, serif;
+    color: #00005a;
+    margin-right: 30px;
+}
+
+.btn_add {
+    height: 20px;
+    font-family: Tahoma, serif;
+    background: #8ac7dc;
+    color: #faf1f1;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 7px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+}
+
+.btn_add:hover {
+    background: #a8d6dc;
+}

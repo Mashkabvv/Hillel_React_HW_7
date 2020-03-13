@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 70px;
+  line-height: 70px;
+  background: aliceblue;
+  box-shadow: 0 2px 5px 2px #a8b3cc;
+  padding: 0 40px;
+}
+
+.link {
+  font-size: 18px;
+  font-family: Tahoma, serif;
+  color: #00005a;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.link:hover {
+  color: #5452b5;
+}

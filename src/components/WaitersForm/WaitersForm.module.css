@@ -1,0 +1,37 @@
+.form_wrap {
+    display: flex;
+    flex-direction: column;
+    background: aliceblue;
+    padding: 20px;
+    width: 30%;
+    border: 1px solid #e3e6e0;
+    border-radius: 4px;
+    /*height: 200px;*/
+    box-shadow: 1px 1px 6px 0 #c3cbd2;
+}
+
+.input {
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 50%;
+    border-radius: 3px;
+    outline: none;
+    border: 1px solid #cccccc;
+    font-size: 18px;
+}
+
+.btn_save {
+    width: 30%;
+    border-radius: 3px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    background: #a8d6dc;
+    color: #00005a;
+    cursor: pointer;
+}
+
+.btn_save:hover {
+    background: #c4dcd6;
+}
